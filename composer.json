@@ -1,0 +1,15 @@
+{
+    "name": "hien/packagetest-for-laravel",
+    "authors": [
+        {
+            "name": "Hien",
+            "email": "568402951@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hien\\Packagetest\\": "src/"
+        }
+    }
+}
